@@ -30,11 +30,13 @@ time at which this rating was given. What is a timestamp?1
 A movie file (e.g. movies.csv) stores the meta-information about all the movies. Except for the
 first line which is the table header, each line in the movie file has one of the following formats:
 
+```
 <mid>,<title> (<year>),<tag_1>|<tag_2>|<tag_3>|...|<tag_n>
 //title does not contain ‘,’
 
 <mid>,"<title> (<year>)",<tag_1>|<tag_2>|<tag_3>|...|<tag_n>
 //title contains ‘,’
+```
   
  #### Rating file format
  
@@ -42,4 +44,6 @@ first line which is the table header, each line in the movie file has one of the
 Except for the first line which contains the table headers, each line in the user file has the
 following format:
 
+```
 <uid>,<mid>,<rating>,<timestamp>
+```
