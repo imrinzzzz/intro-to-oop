@@ -54,11 +54,7 @@ If the	denominator	is	0 or	*N*<sub>i</sub> is	empty, then ![](http://www.sciweav
 
 *p*<sub>u,i</sub> ∈ [0,5] is the	predicted	rating	of	the	movie	*i* given	by	the	user *u*. 
 
-![](http://www.sciweavers.org/tex2img.php?eq=![](http://www.sciweavers.org/tex2img.php?eq=HERE&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
-&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
- and	![](http://www.sciweavers.org/tex2img.php?eq=![](http://www.sciweavers.org/tex2img.php?eq=HERE&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
-%27&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
- are	the	average	rating	score	that	the	users	*u*	and	*u'*	have	given,	respectively. For	example,	if	
+![](http://www.sciweavers.org/tex2img.php?eq=![](http://www.sciweavers.org/tex2img.php?eq=HERE&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=) and	![](http://www.sciweavers.org/tex2img.php?eq=![](http://www.sciweavers.org/tex2img.phpeq=HERE&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)%27&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=) are	the	average	rating	score	that	the	users	*u*	and	*u'*	have	given,	respectively. For	example,	if	
 the	user *u* rated	three	movies	in	the	past	with	rating	scores	of	1.5,	0.5,	and	4	stars,	then	� = 2.0.
 
 *r<sub>u',i</sub>* is	the	rating	score	that	the	user	u’ gave	to	the	movie	i.
