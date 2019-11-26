@@ -1,0 +1,44 @@
+[mid: 32:Twelve Monkeys (a.k.a. 12 Monkeys) (1995) [Sci-Fi, Thriller, Mystery]] -> avg rating: 4.0, #ratings: 1
+   [uid: 1 mid: 32 rating: 4.0/5 timestamp: 1217896246]
+[mid: 111360:Lucy (2014) [Action, Sci-Fi]] -> avg rating: 2.5, #ratings: 1
+   [uid: 21 mid: 111360 rating: 2.5/5 timestamp: 1428011135]
+[mid: 100326:Stand Up Guys (2012) [Crime, Comedy]] -> avg rating: 3.75, #ratings: 2
+   [uid: 128 mid: 100326 rating: 4.0/5 timestamp: 1420011101]
+   [uid: 475 mid: 100326 rating: 3.5/5 timestamp: 1388005962]
+[mid: 101864:Oblivion (2013) [Action, Sci-Fi, Adventure, IMAX]] -> avg rating: 3.5, #ratings: 1
+   [uid: 128 mid: 101864 rating: 3.5/5 timestamp: 1420251474]
+[mid: 3018:Re-Animator (1985) [Sci-Fi, Horror, Comedy]] -> avg rating: 2.5, #ratings: 1
+   [uid: 475 mid: 3018 rating: 2.5/5 timestamp: 1379678927]
+[mid: 100108:Parker (2013) [Thriller, Crime]] -> avg rating: 2.5, #ratings: 1
+   [uid: 128 mid: 100108 rating: 2.5/5 timestamp: 1445957961]
+[mid: 109487:Interstellar (2014) [Sci-Fi, IMAX]] -> avg rating: 4.0, #ratings: 1
+   [uid: 21 mid: 109487 rating: 4.0/5 timestamp: 1428010919]
+[mid: 107406:Snowpiercer (2013) [Action, Sci-Fi, Drama]] -> avg rating: 1.5, #ratings: 1
+   [uid: 128 mid: 107406 rating: 1.5/5 timestamp: 1419657454]
+[mid: 16:Casino (1995) [Drama, Crime]] -> avg rating: 3.0, #ratings: 1
+   [uid: 1 mid: 16 rating: 3.0/5 timestamp: 1217898888]
+[mid: 19:Ace Ventura: When Nature Calls (1995) [Comedy]] -> avg rating: 3.5, #ratings: 1
+   [uid: 21 mid: 19 rating: 3.5/5 timestamp: 1428095348]
+[mid: 3030:Yojimbo (1961) [Action, Adventure]] -> avg rating: 4.0, #ratings: 1
+   [uid: 475 mid: 3030 rating: 4.0/5 timestamp: 1305325978]
+[mid: 24:Powder (1995) [Sci-Fi, Drama]] -> avg rating: 1.5, #ratings: 1
+   [uid: 1 mid: 24 rating: 1.5/5 timestamp: 1217895807]
+[mid: 106489:Hobbit: The Desolation of Smaug, The (2013) [Adventure, Fantasy, IMAX]] -> avg rating: 4.0, #ratings: 1
+   [uid: 21 mid: 106489 rating: 4.0/5 timestamp: 1428011496]
+[mid: 108729:Enemy (2013) [Thriller, Mystery]] -> avg rating: 3.5, #ratings: 1
+   [uid: 128 mid: 108729 rating: 3.5/5 timestamp: 1419294410]
+[mid: 99992:Shadow Dancer (2012) [Drama, Thriller, Crime]] -> avg rating: 3.0, #ratings: 1
+   [uid: 475 mid: 99992 rating: 3.0/5 timestamp: 1385062503]
+[mid: 3033:Spaceballs (1987) [Sci-Fi, Comedy]] -> avg rating: 3.75, #ratings: 2
+   [uid: 21 mid: 3033 rating: 4.0/5 timestamp: 1428014072]
+   [uid: 475 mid: 3033 rating: 3.5/5 timestamp: 1305331090]
+[mid: 108188:Jack Ryan: Shadow Recruit (2014) [Action, Drama, Thriller, IMAX]] -> avg rating: 3.5, #ratings: 1
+   [uid: 128 mid: 108188 rating: 3.5/5 timestamp: 1419746244]
+[mid: 99996:It's a Disaster (2012) [Drama, Comedy]] -> avg rating: 3.5, #ratings: 1
+   [uid: 475 mid: 99996 rating: 3.5/5 timestamp: 1378753434]
+[mid: 108190:Divergent (2014) [Sci-Fi, Adventure, Romance, IMAX]] -> avg rating: 3.25, #ratings: 2
+   [uid: 128 mid: 108190 rating: 2.5/5 timestamp: 1419707507]
+   [uid: 21 mid: 108190 rating: 4.0/5 timestamp: 1428011523]
+*****************************************
+Total number of movies: 19
+Total number of ratings: 22
